@@ -14,4 +14,5 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 
 - Buka folder **include** lalu edit file **config.php** lalu sesuaikan `username`, `password` dan `database` dengan yang Anda gunakan.
 
-Ini adalah source code dari postingan https://masrud.com/post/aplikasi-manajemen-surat-php-mysqli
+Source code template yang digunakan:  https://masrud.com/post/aplikasi-manajemen-surat-php-mysqli
+Lalu code diatas disempurnakan oleh kami mahasiswa magang untuk memenuhi kebutuhan kantor
